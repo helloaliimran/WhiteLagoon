@@ -4,6 +4,67 @@
     "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Web\\WhiteLagoon.Web.csproj": {}
   },
   "projects": {
+    "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj",
+        "projectName": "WhiteLagoon.Application",
+        "projectPath": "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj",
+        "packagesPath": "C:\\Users\\imran.ali\\.nuget\\packages\\",
+        "outputPath": "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\imran.ali\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
+                "projectPath": "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -87,8 +148,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj": {
-                "projectPath": "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Domain\\WhiteLagoon.Domain.csproj"
+              "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj": {
+                "projectPath": "E:\\Learning\\AspNetProject\\WhiteLagoon\\WhiteLagoon.Application\\WhiteLagoon.Application.csproj"
               }
             }
           }

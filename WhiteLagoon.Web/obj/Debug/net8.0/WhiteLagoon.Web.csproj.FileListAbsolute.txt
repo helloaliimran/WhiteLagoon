@@ -415,9 +415,11 @@ E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\runtimes\
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.dll
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Domain.dll
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Infrastructure.dll
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Infrastructure.pdb
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Application.pdb
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.csproj.AssemblyReference.cache
 E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Web\obj\Debug\net8.0\WhiteLagoon.Web.GeneratedMSBuildEditorConfig.editorconfig

@@ -1526,6 +1526,19 @@
           }
         }
       },
+      "WhiteLagoon.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WhiteLagoon.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WhiteLagoon.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WhiteLagoon.Application.dll": {}
+        }
+      },
       "WhiteLagoon.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1544,7 +1557,7 @@
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
-          "WhiteLagoon.Domain": "1.0.0"
+          "WhiteLagoon.Application": "1.0.0"
         },
         "compile": {
           "bin/placeholder/WhiteLagoon.Infrastructure.dll": {}
@@ -4115,6 +4128,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "WhiteLagoon.Application/1.0.0": {
+      "type": "project",
+      "path": "../WhiteLagoon.Application/WhiteLagoon.Application.csproj",
+      "msbuildProject": "../WhiteLagoon.Application/WhiteLagoon.Application.csproj"
     },
     "WhiteLagoon.Domain/1.0.0": {
       "type": "project",

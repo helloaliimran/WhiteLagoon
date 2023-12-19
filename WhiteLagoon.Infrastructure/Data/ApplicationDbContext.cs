@@ -23,7 +23,7 @@ namespace WhiteLagoon.Infrastructure.Data
         {
             //base.OnModelCreating(modelBuilder);
             modelBuilder.Entity<Villa>().HasData(
-                 new Villa
+                 new Villa        
                  {
                      Id = 1,
                      Name = "Royal Villa",
@@ -62,6 +62,9 @@ namespace WhiteLagoon.Infrastructure.Data
                 new VillaNumber { VillaId = 13, Villa_Number = 131 },
                 new VillaNumber { VillaId = 13, Villa_Number = 132 }
             );
+        
+
+
         }
     }
 }

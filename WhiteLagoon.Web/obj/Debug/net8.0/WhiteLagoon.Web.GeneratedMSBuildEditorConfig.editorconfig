@@ -42,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[E:/Learning/AspNetProject/WhiteLagoon/WhiteLagoon.Web/Views/VillaNumber/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [E:/Learning/AspNetProject/WhiteLagoon/WhiteLagoon.Web/Views/VillaNumber/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmlsbGFOdW1iZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

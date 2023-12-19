@@ -1,0 +1,16 @@
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.deps.json
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.dll
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Application.pdb
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.dll
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\bin\Debug\net8.0\WhiteLagoon.Domain.pdb
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.AssemblyReference.cache
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfoInputs.cache
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.AssemblyInfo.cs
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CoreCompileInputs.cache
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.sourcelink.json
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.csproj.CopyComplete
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.dll
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\refint\WhiteLagoon.Application.dll
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\WhiteLagoon.Application.pdb
+E:\Learning\AspNetProject\WhiteLagoon\WhiteLagoon.Application\obj\Debug\net8.0\ref\WhiteLagoon.Application.dll
