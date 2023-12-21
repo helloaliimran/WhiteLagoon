@@ -7,11 +7,8 @@ using WhiteLagoon.Domain.Entities;
 
 namespace WhiteLagoon.Application.Common.Interfaces
 {
-    public interface IUnitOfWork
+    public interface IAmenityRepository:IRepository<Amenity>
     {
-        IVillaRepository Villa { get; }
-        IVillaNumberRepository VillaNumber { get; }
-        IAmenityRepository Amenity { get; }
-        void Save();
+        void Update(Amenity entity);
     }
 }
