@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\WhiteLagoon.Web.props" />
-</Project>
