@@ -62,3 +62,7 @@ SaveChanges method on that instance of the context and be assured that all relat
 be coordinated. All that the class needs is a Save method and a property for each repository.
 Each repository property returns a repository instance that has been instantiated using the 
 same database context instance as the other repository instances.
+
+
+### Integrate External Libraries
+1. Data Tables - https://datatables.net/
